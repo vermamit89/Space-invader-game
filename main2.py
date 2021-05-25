@@ -18,7 +18,7 @@ SB= pygame.image.load("SpaceBackground.png")
 
 #Player
 playerImg=pygame.image.load("spaceship.png")
-playerX=370
+playerX=380
 playerY=480
 player_changeX=0
 
